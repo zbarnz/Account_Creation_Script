@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "faker": "github:marak/Faker.js",
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^9.1.1"
+  }
+}
